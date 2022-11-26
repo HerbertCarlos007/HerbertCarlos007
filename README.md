@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Herbert Carlos🖐️
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=HerbertCarlos007&show_icons=true&theme=dracula)
-
+<div align="left">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertCarlos007&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>	
+  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HerbertCarlos007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
+</div><br>	
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
