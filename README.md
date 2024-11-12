@@ -18,6 +18,6 @@
 
 
 ### Últimos repositórios:
-- [app-financas](https://github.com/HerbertCarlos007/app-financas)<br/>
-- [Loja-com-controle-de-estoque-frontend](https://github.com/HerbertCarlos007/Loja-com-controle-de-estoque-frontend)<br/>
-- [Loja-com-controle-de-estoque-backend](https://github.com/HerbertCarlos007/Loja-com-controle-de-estoque-backend)<br/>
+- [food-marketplace-frontend](https://github.com/HerbertCarlos007/food-marketplace-frontend)<br/>
+- [food-marketplace-backend](https://github.com/HerbertCarlos007/food-marketplace-backend)<br/>
+
