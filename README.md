@@ -32,12 +32,14 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
+
 
 <br/>
 
 
 ### Últimos repositórios:
-- [food-marketplace-frontend](https://github.com/HerbertCarlos007/food-marketplace-frontend)<br/>
-- [food-marketplace-backend](https://github.com/HerbertCarlos007/food-marketplace-backend)<br/>
+- [social-network-frontend](https://github.com/HerbertCarlos007/social-network-frontend)<br/>
+- [social-network-backend](https://github.com/HerbertCarlos007/social-network-backend)<br/>
 
