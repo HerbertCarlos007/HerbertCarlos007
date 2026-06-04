@@ -40,6 +40,6 @@
 
 
 ### Últimos repositórios:
-- [social-network-frontend](https://github.com/HerbertCarlos007/social-network-frontend)<br/>
-- [social-network-backend](https://github.com/HerbertCarlos007/social-network-backend)<br/>
+- [medclinic-frontend](https://github.com/HerbertCarlos007/medclinic-frontend)<br/>
+- [medclinic-backend](https://github.com/HerbertCarlos007/medclinic-backend)<br/>
 
