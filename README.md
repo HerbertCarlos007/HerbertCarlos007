@@ -4,7 +4,7 @@ Atualmente atuo como **Desenvolvedor Full Stack**, com experiência no desenvolv
 
 Sou apaixonado por tecnologia, resolver problemas através de código e construir soluções que gerem valor para pessoas e empresas.
 
-🔗 LinkedIn: www.linkedin.com/in/herbert-carlos-a36455234  
+🔗 LinkedIn: https://www.linkedin.com/in/herbert-carlos/
 💻 GitHub: https://github.com/HerbertCarlos007
 
 ---
@@ -43,9 +43,9 @@ Aqui estão algumas das stacks e ferramentas com que mais trabalho:
 
 ## 📫 Fale comigo
 
-Se quiser bater um papo, tirar dúvidas, propor projetos ou colaboração, estou aberto!
+Sempre interessado em aprender, compartilhar conhecimento e participar de novos desafios.
 
-📧 Me mande uma mensagem via LinkedIn ou GitHub.
+📧 Me mande uma mensagem via LinkedIn
 
 ---
 
